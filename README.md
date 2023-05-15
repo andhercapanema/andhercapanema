@@ -51,8 +51,8 @@
 ### 📊 GitHub Stats
 
 <a href="https://github.com/andhercapanema">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=andhercapanema&hide=stars,issues&count_private=true&show_icons=true&theme=apprentice&bg_color=00000000" />
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andhercapanema&langs_count=4&layout=compact&theme=apprentice&bg_color=00000000" />
+  <img align="center" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andhercapanema&hide=stars,issues&count_private=true&show_icons=true&theme=apprentice&bg_color=00000000" />
+  <img align="center" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andhercapanema&langs_count=4&layout=compact&theme=apprentice&bg_color=00000000" />
 </a>
 
 ### 📫 Contact Me
